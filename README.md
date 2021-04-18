@@ -2,4 +2,4 @@
 
 Run this notebook as usual, after you click here:
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/empet/run-with-binder/master?filepath=Circular-membrane-vibration.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Shai2u/batyam_may2021/master?urlpath=lab)
